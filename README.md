@@ -34,7 +34,7 @@ Right now I'm especially interested in:
 
 ---
 
-### BuyersBay: buyersbay.ca
+### [BuyersBay](https://buyersbay.ca)
 *Production-style apps with real-world constraints*
 
 - Built full-stack features around map search, listings, and analytics (e.g., clustering for thousands of pins, efficient Postgres queries)
