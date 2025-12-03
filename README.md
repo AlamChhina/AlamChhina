@@ -10,7 +10,7 @@ Right now I'm especially interested in:
 
 ## Featured Projects
 
-### samurAI
+### [samurAI](https://github.com/AlamChhina/samurAI)
 *AI-powered video-to-notes pipeline*
 
 - FastAPI service that turns long-form videos and URLs into transcripts, summaries, and audio
@@ -22,7 +22,7 @@ Right now I'm especially interested in:
 
 ---
 
-### TappedIn
+### [TappedIn](https://github.com/AlamChhina/TappedIn)
 *Spotify-powered music guessing game*
 
 - Web game that uses the Spotify API and Web Playback SDK to play short audio clips
